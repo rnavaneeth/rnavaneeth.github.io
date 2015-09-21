@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Navaneeth's Laboratory
+tagline:          'Collection of Ideas'
+description:      'I write: to keep track of what I have in the past, to ponder and to explore'
+url:              rnavaneeth.github.io
+baseurl:          /
+
+author:
+  name:           'Navaneeth'
+  url:            https://www.linkedin.com/in/rnavaneeth
+
+paginate:         5
+
+# Custom vars
+#version:          2.1.0
+
+github:
+  repo:           https://github.com/rnavaneeth
