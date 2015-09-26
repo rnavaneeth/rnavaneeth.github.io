@@ -11,8 +11,7 @@ title:            Navaneeth's Laboratory
 tagline:          'Collection of Ideas'
 description:      'I write: to keep track of what I have in the past, to ponder and to explore'
 url:              rnavaneeth.github.io
-baseurl:          /professional
-source:						/professional
+baseurl:          /
 
 author:
   name:           'Navaneeth'
