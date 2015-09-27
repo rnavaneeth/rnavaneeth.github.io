@@ -9,7 +9,8 @@ Most modern websites have gone the way of having cleaner, uncluttered views.
 One of the concepts that goes into buidling a clutter free views is the term "unpagination".
 
 To Quote,
-	> Infinite scrolling, also known as "endless scrolling," "unpagination," and others, is a technique where additional content for a web page is appended dynamically to the bottom of the page as the user approaches the end of the content. 
+
+	 Infinite scrolling, also known as "endless scrolling," "unpagination," and others, is a technique where additional content for a web page is appended dynamically to the bottom of the page as the user approaches the end of the content. 
 
 In terms of automation, what this means is when you are to assert a set of data, only part of it is available in the view for you to assert. The rest of them only loads when you scroll.
 
@@ -69,7 +70,6 @@ will scroll the page till we reach Item 50
 
 
 **Protip**
-![protip](https://github.com/rnavaneeth.github.io/public/protip-logo.jpg "Protip")
 Use this method in your base page (if you follow Page Object model) and that you won't have to repeat this code anywhere else.
 
 
