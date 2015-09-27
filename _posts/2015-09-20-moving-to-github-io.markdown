@@ -2,7 +2,7 @@
 layout: post
 title: "Moving from Tumblr to Github IO"
 date:   2015-09-20 11:44:40
-categories: jekyll update
+categories: [random, tech]
 ---
 
 ## The Need

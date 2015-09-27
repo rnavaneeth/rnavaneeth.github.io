@@ -2,7 +2,7 @@
 layout: post
 title: "Cucumber - Single column tables"
 date:   2015-09-09 19:30:00
-categories: jekyll update
+categories: [cucumber, ruby]
 ---
 
 Many a times, we come across a situation, where we need to send out a list of values to a step definition.

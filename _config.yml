@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Navaneeth's Laboratory
-tagline:          'Collection of Ideas'
-description:      'I write: to keep track of what I have in the past, to ponder and to explore'
+tagline:          'Lessons Learnt'
+description:      'A software testing, code friendly blog by Navaneeth'
 url:              rnavaneeth.github.io
 baseurl:          /
 
@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-#version:          2.1.0
+version:          0.0.5
 
 github:
   repo:           https://github.com/rnavaneeth
